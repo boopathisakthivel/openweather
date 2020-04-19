@@ -1,0 +1,102 @@
+[
+  {
+    "id": 4726311,
+    "name": "San Diego",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -98.238899,
+      "lat": 27.76391
+    }
+  },
+  {
+    "id": 5128638,
+    "name": "New York",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -75.499901,
+      "lat": 43.000351
+    }
+  },
+  {
+    "id": 4435652,
+    "name": "Meadville",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -90.896767,
+      "lat": 31.472389
+    }
+  },
+  {
+    "id": 4442692,
+    "name": "Quitman",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -88.728104,
+      "lat": 32.04015
+    }
+  },
+  {
+    "id": 4443276,
+    "name": "Richton",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -88.940048,
+      "lat": 31.34934
+    }
+  },
+  {
+    "id": 4453759,
+    "name": "Barker Heights",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -82.444008,
+      "lat": 35.31123
+    }
+  },
+  {
+    "id": 4465285,
+    "name": "Elon",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -79.506691,
+      "lat": 36.102909
+    }
+  },
+  {
+    "id": 4493374,
+    "name": "Steep Pines Fork",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -76.64798,
+      "lat": 34.724331
+    }
+  },
+  {
+    "id": 4503635,
+    "name": "Pitman",
+    "state": "NJ",
+    "country": "US",
+    "coord": {
+      "lon": -75.131569,
+      "lat": 39.732891
+    }
+  },
+  {
+    "id": 4503646,
+    "name": "Pleasantville",
+    "state": "NJ",
+    "country": "US",
+    "coord": {
+      "lon": -74.52404,
+      "lat": 39.389839
+    }
+  }
+]

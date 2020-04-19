@@ -1,0 +1,101 @@
+@import './variables';
+
+html,
+body {
+  background-color: $color-lightest;
+  font: $font;
+  margin: 0;
+  padding: 0;
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+.ow-app {
+  .page {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  header {
+    background-color: $color-primary-light;
+    text-align: center;
+    color: $color-title;
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  main {
+    margin: 1rem;
+  }
+
+  .city-container {
+    float: right;
+    label, input, button {
+      margin: 10px;
+    }
+    
+    input {
+      min-width: 150px;
+      padding: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+    }
+  }
+
+  .weather-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .item-container {
+    background-color: $color-primary-light;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 525px;
+    max-width: 100%;
+    text-align: left;
+    border: 1px solid $color-border;
+
+    div {
+      margin: 0px 5px;
+    }
+
+    .status {
+      border-radius: 100%;
+      border: 1px solid $color-warm;
+      width: 40px;
+      height: 40px;
+      background-color: $color-warm;
+    }
+  }
+}
+
+.ow-container,
+.ow-full-container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 0;
+}
+
+.ow-full-container {
+  width: 100%;
+}
+
+.no-space-wrapper * {
+  padding: 0px;
+  margin: 0px;
+}
+
+.full-column-size {
+  font-size: 3rem;
+  line-height: 0;
+}
